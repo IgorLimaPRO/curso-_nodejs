@@ -1,2 +1,2 @@
-console.log("Ooi, em breve serei uma Api!!!!!!!!!!!!")
+console.log("Ooi, em breve serei uma Api!!!!!")
 
